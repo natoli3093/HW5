@@ -5,11 +5,11 @@ h1 {font-family:"Comic Sans MS"; text-align:center; border-style:solid; border-w
 .bold {font-size:34px; font-family: "Comic Sans MS";}
 
 .cssgridview {width:auto; margin:5px 0 10px 0; border: solid 1px #525252; border-collapse:collapse; text-align: center; font-family: "Comic Sans MS";
-color: black; background-color: white}
+color: black; background-color:white;}
 
-.cssgridview .td { padding :10px; border:solid 1px #c1c1c1; color: #717171; }
+.cssgridview td { padding :10px; border:solid 1px #c1c1c1; color: black; }
 
-.cssgridview .th { padding:10px; color: #fff; background: #424242; border-left:solid 1px #525252; font-size: 0.9em;}
+.cssgridview th { padding:10px; color: #fff; background: #424242; border-left:solid 1px #525252; font-size: 0.9em;}
 
 .cssgridview .alt {background-color:#0CE89B;}
 
